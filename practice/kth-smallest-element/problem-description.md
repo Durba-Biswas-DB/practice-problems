@@ -14,3 +14,9 @@ Find the B-th smallest element in array A.
 Use a partial selection-sort logic:  
 For i from 0 to B-1, find the smallest element in range [i…N-1] and swap it with A[i].  
 Return A[B-1].
+
+
+## Solution
+
+See the implementation in:  
+`code.java`
