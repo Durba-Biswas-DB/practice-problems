@@ -34,7 +34,7 @@ This type of number is known as a **Noble Integer**.
      A[i] == N - i - 1
      ```
      then `A[i]` is a **Noble Integer**, so return `1`.
-3. If the loop completes with no match, return `-1`.
+3. If the loop completes with no match, then return `-1`.
 
 This approach works efficiently in **O(N log N)** due to sorting.
 
